@@ -16,6 +16,7 @@ Through **APEX Accounting & Solutions**, I maintain a collection of tools, worki
 | Review receivables, payables and overdue invoices | [Open the Accounting Workbench](https://ehtisham514.github.io/apex-reconciliation-toolkit/tools/accounting-workbench.html) |
 | Check trust balances and intercompany transfer pairs | [Open the property and multi-entity review tools](https://ehtisham514.github.io/apex-reconciliation-toolkit/tools/accounting-workbench.html) |
 
+| Compare JPMorgan Chase, Bank of America, Citi and Wells Fargo across 172 public filings | [Bank financial model and verification results](https://github.com/Ehtisham514/apex-reconciliation-toolkit/tree/main/financial_intelligence/bank-lab) |
 | Build a linked five-year financial plan with scenario and balance checks | [Integrated three-statement model](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/financial_intelligence/INTEGRATED_MODEL.md) |
 | Plan cash and examine operating scenarios | [Cash forecasts and business projections](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/financial_intelligence/README.md) |
 | Estimate construction costs and review project forecasts | [Construction models](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/financial_intelligence/README.md) |
@@ -45,6 +46,6 @@ For bookkeeping, month-end reporting or help with a financial model, [contact me
 
 The [worked examples](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/docs/CASE_STUDIES.md) show the input figures, calculations and review questions. The [workflow guides](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/docs/WORKFLOWS.md) connect those calculations to source records and review decisions.
 
-The hub is a public beta. Its examples are fictional, and its tools support preparation, analysis and review. Current capabilities, test results and practical limits are documented in the [validation record](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/docs/VALIDATION.md) and [tool catalog](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/docs/TOOL_CATALOG.md).
+The hub is a public beta. The bank model uses public SEC filings. The accounting practice examples use fictional records. Current capabilities, test results and practical limits are documented in the [validation record](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/docs/VALIDATION.md) and [tool catalog](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/docs/TOOL_CATALOG.md).
 
 [Browse the templates](https://github.com/Ehtisham514/apex-reconciliation-toolkit/tree/main/templates) · [Read the source](https://github.com/Ehtisham514/apex-reconciliation-toolkit) · [Report a reproducible issue](https://github.com/Ehtisham514/apex-reconciliation-toolkit/issues)
