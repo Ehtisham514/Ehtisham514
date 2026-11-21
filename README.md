@@ -6,46 +6,28 @@ I help business owners and management teams understand what changed in their pro
 
 Through **APEX Accounting & Solutions**, I maintain a collection of tools, working papers and guides for accountants, business owners and finance teams.
 
-## Start with the Accounting & Finance Hub
+## Selected work
 
-[**Explore the APEX Accounting & Finance Hub**](https://ehtisham514.github.io/apex-reconciliation-toolkit/) · [Getting started](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/docs/START_HERE.md) · [Tool catalog](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/docs/TOOL_CATALOG.md)
+| Project | A question you can answer | Open it |
+|---|---|---|
+| **U.S. bank financial analysis** | If deposits shrink while loans grow, how much funding does a bank need? Compare JPMorgan Chase, Bank of America, Citi and Wells Fargo using public filings. | [Run the model](https://ehtisham514.github.io/apex-reconciliation-toolkit/financial_intelligence/bank-lab/) · [Review the checks](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/financial_intelligence/bank-lab/results/summary.json) |
+| **Rental property cash reconciliation** | Why did a property need to borrow before rent arrived, and where did a $300 reserve transfer go? Trace both entries in a fictional monthly close. | [Open the Excel case](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/templates/rental-property/README.md) |
+| **Five-year business forecast** | How does a change in payment timing affect cash, borrowing and the closing balance sheet? Start with your own assumptions. | [See the model and inputs](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/financial_intelligence/INTEGRATED_MODEL.md) |
 
-| What you want to do | Resource |
+## Find a tool by the work you do
+
+| Area | Start here |
 |---|---|
-| Compare bank records with the bookkeeping ledger | [Open the reconciliation toolkit](https://ehtisham514.github.io/apex-reconciliation-toolkit/apex-reconcile.html) |
-| Review receivables, payables and overdue invoices | [Open the Accounting Workbench](https://ehtisham514.github.io/apex-reconciliation-toolkit/tools/accounting-workbench.html) |
-| Check trust balances and intercompany transfer pairs | [Open the property and multi-entity review tools](https://ehtisham514.github.io/apex-reconciliation-toolkit/tools/accounting-workbench.html) |
+| Bookkeeping and monthly close | [Bank reconciliation](https://ehtisham514.github.io/apex-reconciliation-toolkit/apex-reconcile.html) · [AR/AP review](https://ehtisham514.github.io/apex-reconciliation-toolkit/tools/accounting-workbench.html) · [Timesheet review](https://ehtisham514.github.io/apex-reconciliation-toolkit/tools/timesheet-review.html) · [Close board](https://ehtisham514.github.io/apex-reconciliation-toolkit/tools/close-board.html) |
+| Property and construction | [Trust balances and intercompany transfers](https://ehtisham514.github.io/apex-reconciliation-toolkit/tools/accounting-workbench.html) · [Bids and cost to complete](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/financial_intelligence/README.md#construction-and-earned-value) |
+| Forecasting and valuation | [Weekly cash planning](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/financial_intelligence/README.md#cash-and-operating-forecast) · [DCF and acquisition screening](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/financial_intelligence/README.md#dcf-and-acquisition-screen) |
+| Bank analysis | [Peer comparison, capital and equity valuation](https://ehtisham514.github.io/apex-reconciliation-toolkit/financial_intelligence/bank-lab/) · [Filings and methodology](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/financial_intelligence/bank-lab/README.md) |
+| Data and controls | [Ledger validation and benchmark](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/docs/DATA_ENGINE.md) · [Editable working papers](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/templates/README.md) |
 
-| Compare JPMorgan Chase, Bank of America, Citi and Wells Fargo across 172 public filings | [Bank financial model and verification results](https://github.com/Ehtisham514/apex-reconciliation-toolkit/tree/main/financial_intelligence/bank-lab) |
-| Build a linked five-year financial plan with scenario and balance checks | [Integrated three-statement model](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/financial_intelligence/INTEGRATED_MODEL.md) |
-| Plan cash and examine operating scenarios | [Cash forecasts and business projections](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/financial_intelligence/README.md) |
-| Estimate construction costs and review project forecasts | [Construction models](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/financial_intelligence/README.md) |
-| Explore valuation and acquisition assumptions | [DCF, sensitivity and acquisition screening](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/financial_intelligence/README.md) |
-| Organize the close, supporting schedules and management reports | [Editable templates and working papers](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/templates/README.md) |
-| Validate and aggregate larger ledger exports | [Data engine and measured benchmark](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/docs/DATA_ENGINE.md) |
-
-Open the browser tools from the live hub, or download the repository for offline use. The financial dashboard has a separate [Python setup guide](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/financial_intelligence/RUN_ME.md).
-
-## Additional accounting projects
-
-- [Timesheet duplicate and earnings review](https://ehtisham514.github.io/apex-reconciliation-toolkit/tools/timesheet-review.html) — compare time exports, catch repeated shifts, and review hours and gross earnings.
-- [Month-end close board](https://ehtisham514.github.io/apex-reconciliation-toolkit/tools/close-board.html) — organize close tasks by entity, period, owner and status; task data stays in the current browser.
-
-## My accounting focus
-
-- **Bookkeeping and close:** bank and credit-card reconciliations, receivables, payables and supporting schedules.
-- **Property and multi-entity finance:** trust-balance review, intercompany activity and clear entity-level reporting.
-- **Planning and reporting:** cash-flow forecasts, project-cost scenarios and management reports.
-- **Financial modeling:** transparent assumptions, useful sensitivities and calculations that can be traced to their inputs.
+[All projects, formats and starting points](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/docs/START_HERE.md) · [Open the live finance hub](https://ehtisham514.github.io/apex-reconciliation-toolkit/)
 
 ## Work with me
 
 For bookkeeping, month-end reporting or help with a financial model, [contact me on LinkedIn](https://www.linkedin.com/in/ehtisham-ul-haq-5924b9451/). You can also [view my work on Upwork](https://www.upwork.com/freelancers/~019db478acf3ff1bda?mp_source=share) or [see my services on Fiverr](https://www.fiverr.com/ehtisham_425).
 
-## See how the tools work
-
-The [worked examples](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/docs/CASE_STUDIES.md) show the input figures, calculations and review questions. The [workflow guides](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/docs/WORKFLOWS.md) connect those calculations to source records and review decisions.
-
-The hub is a public beta. The bank model uses public SEC filings. The accounting practice examples use fictional records. Current capabilities, test results and practical limits are documented in the [validation record](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/docs/VALIDATION.md) and [tool catalog](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/docs/TOOL_CATALOG.md).
-
-[Browse the templates](https://github.com/Ehtisham514/apex-reconciliation-toolkit/tree/main/templates) · [Read the source](https://github.com/Ehtisham514/apex-reconciliation-toolkit) · [Report a reproducible issue](https://github.com/Ehtisham514/apex-reconciliation-toolkit/issues)
+[Worked examples](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/docs/CASE_STUDIES.md) · [Workflow guides](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/docs/WORKFLOWS.md) · [Tool catalog and limitations](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/docs/TOOL_CATALOG.md) · [Source code](https://github.com/Ehtisham514/apex-reconciliation-toolkit)
