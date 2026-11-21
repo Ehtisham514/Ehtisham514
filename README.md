@@ -23,6 +23,11 @@ Through **APEX Accounting & Solutions**, I maintain a collection of tools, worki
 
 Open the browser tools from the live hub, or download the repository for offline use. The financial dashboard has a separate [Python setup guide](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/financial_intelligence/RUN_ME.md).
 
+## Additional accounting projects
+
+- [Timesheet duplicate and earnings review](https://ehtisham514.github.io/apex-reconciliation-toolkit/tools/timesheet-review.html) — compare time exports, catch repeated shifts, and review hours and gross earnings.
+- [Month-end close board](https://ehtisham514.github.io/apex-reconciliation-toolkit/tools/close-board.html) — organize close tasks by entity, period, owner and status; task data stays in the current browser.
+
 ## My accounting focus
 
 - **Bookkeeping and close:** bank and credit-card reconciliations, receivables, payables and supporting schedules.
