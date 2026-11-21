@@ -15,6 +15,8 @@ Through **APEX Accounting & Solutions**, I maintain a collection of tools, worki
 | Compare bank records with the bookkeeping ledger | [Open the reconciliation toolkit](https://ehtisham514.github.io/apex-reconciliation-toolkit/apex-reconcile.html) |
 | Review receivables, payables and overdue invoices | [Open the Accounting Workbench](https://ehtisham514.github.io/apex-reconciliation-toolkit/tools/accounting-workbench.html) |
 | Check trust balances and intercompany transfer pairs | [Open the property and multi-entity review tools](https://ehtisham514.github.io/apex-reconciliation-toolkit/tools/accounting-workbench.html) |
+
+| Build a linked five-year financial plan with scenario and balance checks | [Integrated three-statement model](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/financial_intelligence/INTEGRATED_MODEL.md) |
 | Plan cash and examine operating scenarios | [Cash forecasts and business projections](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/financial_intelligence/README.md) |
 | Estimate construction costs and review project forecasts | [Construction models](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/financial_intelligence/README.md) |
 | Explore valuation and acquisition assumptions | [DCF, sensitivity and acquisition screening](https://github.com/Ehtisham514/apex-reconciliation-toolkit/blob/main/financial_intelligence/README.md) |
