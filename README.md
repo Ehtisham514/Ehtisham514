@@ -1,8 +1,8 @@
 # Muhammad Ehtisham Ul Haq
 
-**Accounting, property finance and practical financial tools.**
+**Accountant, bookkeeper and financial controller.**
 
-I work on bookkeeping, reconciliations, property accounting, intercompany activity, cash planning and management reporting. My focus is making financial records easier to review and the decisions behind the numbers easier to understand.
+I help business owners and management teams understand what changed in their profit, cash and working capital. My work ranges from bookkeeping cleanup and month-end close to multi-entity reporting, forecasts and acquisition modeling. My experience spans e-commerce, construction, real estate and property management.
 
 Through **APEX Accounting & Solutions**, I maintain a collection of tools, working papers and guides for accountants, business owners and finance teams.
 
@@ -32,7 +32,7 @@ Open the browser tools from the live hub, or download the repository for offline
 
 ## Work with me
 
-For bookkeeping, property accounting and reconciliation support, [view my rental reconciliation project on Upwork](https://www.upwork.com/freelancers/~019db478acf3ff1bda?p=2123159662781452288) or [see my services on Fiverr](https://www.fiverr.com/ehtisham_425).
+For bookkeeping, month-end reporting or help with a financial model, [contact me on LinkedIn](https://www.linkedin.com/in/ehtisham-ul-haq-5924b9451/). You can also [view my work on Upwork](https://www.upwork.com/freelancers/~019db478acf3ff1bda?mp_source=share) or [see my services on Fiverr](https://www.fiverr.com/ehtisham_425).
 
 ## See how the tools work
 
